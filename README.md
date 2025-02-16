@@ -14,6 +14,7 @@
 | [1179-game-play-analysis-i](https://github.com/drashtee-parmar/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/drashtee-parmar/LeetCode/tree/master/1258-article-views-i) |
 | [1259-article-views-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/1259-article-views-ii) |
+| [1268-market-analysis-i](https://github.com/drashtee-parmar/LeetCode/tree/master/1268-market-analysis-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/drashtee-parmar/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1837-daily-leads-and-partners](https://github.com/drashtee-parmar/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/drashtee-parmar/LeetCode/tree/master/1877-find-followers-count) |
