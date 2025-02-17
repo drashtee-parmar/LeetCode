@@ -24,4 +24,5 @@
 | [1877-find-followers-count](https://github.com/drashtee-parmar/LeetCode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/drashtee-parmar/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2024-calculate-special-bonus](https://github.com/drashtee-parmar/LeetCode/tree/master/2024-calculate-special-bonus) |
+| [2110-employees-with-missing-information](https://github.com/drashtee-parmar/LeetCode/tree/master/2110-employees-with-missing-information) |
 <!---LeetCode Topics End-->
