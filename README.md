@@ -25,6 +25,7 @@
 | [1258-article-views-i](https://github.com/drashtee-parmar/LeetCode/tree/master/1258-article-views-i) |
 | [1259-article-views-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/1259-article-views-ii) |
 | [1268-market-analysis-i](https://github.com/drashtee-parmar/LeetCode/tree/master/1268-market-analysis-i) |
+| [1317-monthly-transactions-i](https://github.com/drashtee-parmar/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/drashtee-parmar/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/drashtee-parmar/LeetCode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/drashtee-parmar/LeetCode/tree/master/1415-students-and-examinations) |
