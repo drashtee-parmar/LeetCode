@@ -22,6 +22,7 @@
 | [1161-project-employees-i](https://github.com/drashtee-parmar/LeetCode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/drashtee-parmar/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/1180-game-play-analysis-ii) |
+| [1182-game-play-analysis-iv](https://github.com/drashtee-parmar/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/drashtee-parmar/LeetCode/tree/master/1258-article-views-i) |
 | [1259-article-views-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/1259-article-views-ii) |
 | [1268-market-analysis-i](https://github.com/drashtee-parmar/LeetCode/tree/master/1268-market-analysis-i) |
