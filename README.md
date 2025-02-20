@@ -33,6 +33,7 @@
 | [1258-article-views-i](https://github.com/drashtee-parmar/LeetCode/tree/master/1258-article-views-i) |
 | [1259-article-views-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/1259-article-views-ii) |
 | [1268-market-analysis-i](https://github.com/drashtee-parmar/LeetCode/tree/master/1268-market-analysis-i) |
+| [1278-product-price-at-a-given-date](https://github.com/drashtee-parmar/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/drashtee-parmar/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/drashtee-parmar/LeetCode/tree/master/1338-queries-quality-and-percentage) |
