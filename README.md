@@ -44,6 +44,7 @@
 | [1827-invalid-tweets](https://github.com/drashtee-parmar/LeetCode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/drashtee-parmar/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/drashtee-parmar/LeetCode/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/drashtee-parmar/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/drashtee-parmar/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2024-calculate-special-bonus](https://github.com/drashtee-parmar/LeetCode/tree/master/2024-calculate-special-bonus) |
 | [2087-confirmation-rate](https://github.com/drashtee-parmar/LeetCode/tree/master/2087-confirmation-rate) |
