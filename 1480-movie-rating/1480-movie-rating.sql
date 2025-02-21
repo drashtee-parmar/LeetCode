@@ -4,7 +4,12 @@ WITH UserRatings AS (
     FROM MovieRating mr
     JOIN Users u ON mr.user_id = u.user_id
     GROUP BY u.name
-    ORDER BY rating_count DESC, u.name ASC
+),
+MaxUser AS (
+    SELECT name
+    FROM UserRatings
+    WHERE rating_count = (SELECT MAX(rating_count) FROM UserRatings)
+    ORDER BY name
     LIMIT 1
 ),
 MovieRatings AS (
@@ -13,9 +18,14 @@ MovieRatings AS (
     JOIN Movies m ON mr.movie_id = m.movie_id
     WHERE mr.created_at BETWEEN '2020-02-01' AND '2020-02-29'
     GROUP BY m.title
-    ORDER BY avg_rating DESC, m.title ASC
+),
+MaxMovie AS (
+    SELECT title
+    FROM MovieRatings
+    WHERE avg_rating = (SELECT MAX(avg_rating) FROM MovieRatings)
+    ORDER BY title
     LIMIT 1
 )
-SELECT name AS results FROM UserRatings
+SELECT name AS results FROM MaxUser
 UNION ALL
-SELECT title FROM MovieRatings;
+SELECT title AS results FROM MaxMovie;
