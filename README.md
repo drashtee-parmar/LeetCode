@@ -55,5 +55,6 @@
 | [2057-count-salary-categories](https://github.com/drashtee-parmar/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/drashtee-parmar/LeetCode/tree/master/2087-confirmation-rate) |
 | [2110-employees-with-missing-information](https://github.com/drashtee-parmar/LeetCode/tree/master/2110-employees-with-missing-information) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/drashtee-parmar/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/drashtee-parmar/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
