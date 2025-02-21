@@ -1,31 +1,16 @@
 # Write your MySQL query statement below
-WITH UserRatings AS (
-    SELECT u.name, COUNT(mr.movie_id) AS rating_count
-    FROM MovieRating mr
-    JOIN Users u ON mr.user_id = u.user_id
-    GROUP BY u.name
-),
-MaxUser AS (
-    SELECT name
-    FROM UserRatings
-    WHERE rating_count = (SELECT MAX(rating_count) FROM UserRatings)
-    ORDER BY name
-    LIMIT 1
-),
-MovieRatings AS (
-    SELECT m.title, AVG(mr.rating) AS avg_rating
-    FROM MovieRating mr
-    JOIN Movies m ON mr.movie_id = m.movie_id
-    WHERE mr.created_at BETWEEN '2020-02-01' AND '2020-02-29'
-    GROUP BY m.title
-),
-MaxMovie AS (
-    SELECT title
-    FROM MovieRatings
-    WHERE avg_rating = (SELECT MAX(avg_rating) FROM MovieRatings)
-    ORDER BY title
-    LIMIT 1
-)
-SELECT name AS results FROM MaxUser
+# Write your MySQL query statement below
+(SELECT name AS results
+FROM MovieRating JOIN Users USING(user_id)
+GROUP BY name
+ORDER BY COUNT(*) DESC, name
+LIMIT 1)
+
 UNION ALL
-SELECT title AS results FROM MaxMovie;
+
+(SELECT title AS results
+FROM MovieRating JOIN Movies USING(movie_id)
+WHERE EXTRACT(YEAR_MONTH FROM created_at) = 202002
+GROUP BY title
+ORDER BY AVG(rating) DESC, title
+LIMIT 1);
