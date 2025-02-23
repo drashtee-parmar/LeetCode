@@ -70,4 +70,12 @@
 | [2110-employees-with-missing-information](https://github.com/drashtee-parmar/LeetCode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/drashtee-parmar/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/drashtee-parmar/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/drashtee-parmar/LeetCode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/drashtee-parmar/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
