@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/drashtee-parmar/LeetCode/tree/master/0001-two-sum) |
+| [0485-max-consecutive-ones](https://github.com/drashtee-parmar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
