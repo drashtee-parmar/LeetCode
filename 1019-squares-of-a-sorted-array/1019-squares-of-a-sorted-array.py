@@ -4,23 +4,23 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        # left, right = 0, len(nums) -1
-        # result = []
+        n = len(nums)
+        result = [0] * n  # Initialize result array
+        left, right = 0, n - 1  # Two pointers at both ends
+        index = n - 1  # Fill result array from the end
 
+        while left <= right:
+            left_square = nums[left] ** 2
+            right_square = nums[right] ** 2
+
+            if left_square > right_square:
+                result[index] = left_square
+                left += 1
+            else:
+                result[index] = right_square
+                right -= 1
+
+            index -= 1  # Move to the next position
+
+        return result        
         
-        # while left <= right:
-        #     if abs(nums[left]) > abs(nums[right]):
-        #         result.append(nums[left] ** 2)
-        #         left += 1
-        #     else:
-        #         result.append(nums[right] ** 2)
-        #         right -= 1
-
-        # return result[::-1]  # Reverse the result since we filled it from largest to smallest
-
-
-
-        for i in range(len(nums)):
-            nums[i] = nums[i]**2
-        nums.sort()
-        return nums
