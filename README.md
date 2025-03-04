@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/drashtee-parmar/LeetCode/tree/master/0013-roman-to-integer) |
+| [0257-binary-tree-paths](https://github.com/drashtee-parmar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/drashtee-parmar/LeetCode/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -124,4 +125,20 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtee-parmar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/drashtee-parmar/LeetCode/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/drashtee-parmar/LeetCode/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/drashtee-parmar/LeetCode/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/drashtee-parmar/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
