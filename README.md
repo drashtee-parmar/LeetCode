@@ -92,6 +92,7 @@
 | [0068-text-justification](https://github.com/drashtee-parmar/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/drashtee-parmar/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/drashtee-parmar/LeetCode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/drashtee-parmar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/drashtee-parmar/LeetCode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/drashtee-parmar/LeetCode/tree/master/0415-add-strings) |
@@ -113,6 +114,7 @@
 | [0189-rotate-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/drashtee-parmar/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/drashtee-parmar/LeetCode/tree/master/0204-count-primes) |
+| [0212-word-search-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/0212-word-search-ii) |
 | [0253-meeting-rooms-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0322-coin-change](https://github.com/drashtee-parmar/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/drashtee-parmar/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/drashtee-parmar/LeetCode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/drashtee-parmar/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
@@ -223,6 +226,7 @@
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/0212-word-search-ii) |
 | [1125-design-file-system](https://github.com/drashtee-parmar/LeetCode/tree/master/1125-design-file-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/drashtee-parmar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -245,6 +249,7 @@
 | [0054-spiral-matrix](https://github.com/drashtee-parmar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/drashtee-parmar/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/drashtee-parmar/LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/0212-word-search-ii) |
 | [0723-candy-crush](https://github.com/drashtee-parmar/LeetCode/tree/master/0723-candy-crush) |
 | [1972-rotating-the-box](https://github.com/drashtee-parmar/LeetCode/tree/master/1972-rotating-the-box) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
