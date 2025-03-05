@@ -109,6 +109,7 @@
 | [0054-spiral-matrix](https://github.com/drashtee-parmar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/drashtee-parmar/LeetCode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/drashtee-parmar/LeetCode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/drashtee-parmar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtee-parmar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0189-rotate-array) |
@@ -223,6 +224,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/drashtee-parmar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/drashtee-parmar/LeetCode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/drashtee-parmar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Trie
 |  |
 | ------- |
@@ -326,4 +328,8 @@
 |  |
 | ------- |
 | [0546-remove-boxes](https://github.com/drashtee-parmar/LeetCode/tree/master/0546-remove-boxes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/drashtee-parmar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
