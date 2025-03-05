@@ -93,6 +93,7 @@
 | [0257-binary-tree-paths](https://github.com/drashtee-parmar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/drashtee-parmar/LeetCode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/drashtee-parmar/LeetCode/tree/master/0415-add-strings) |
+| [1125-design-file-system](https://github.com/drashtee-parmar/LeetCode/tree/master/1125-design-file-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/drashtee-parmar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Array
@@ -139,6 +140,7 @@
 | [0001-two-sum](https://github.com/drashtee-parmar/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/drashtee-parmar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1125-design-file-system](https://github.com/drashtee-parmar/LeetCode/tree/master/1125-design-file-system) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Linked List
@@ -204,6 +206,7 @@
 ## Trie
 |  |
 | ------- |
+| [1125-design-file-system](https://github.com/drashtee-parmar/LeetCode/tree/master/1125-design-file-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/drashtee-parmar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Rolling Hash
@@ -283,4 +286,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/drashtee-parmar/LeetCode/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [1125-design-file-system](https://github.com/drashtee-parmar/LeetCode/tree/master/1125-design-file-system) |
 <!---LeetCode Topics End-->
