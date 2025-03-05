@@ -80,6 +80,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/drashtee-parmar/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1972-rotating-the-box](https://github.com/drashtee-parmar/LeetCode/tree/master/1972-rotating-the-box) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [1284-four-divisors](https://github.com/drashtee-parmar/LeetCode/tree/master/1284-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/drashtee-parmar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/drashtee-parmar/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1972-rotating-the-box](https://github.com/drashtee-parmar/LeetCode/tree/master/1972-rotating-the-box) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/drashtee-parmar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/drashtee-parmar/LeetCode/tree/master/0048-rotate-image) |
+| [1972-rotating-the-box](https://github.com/drashtee-parmar/LeetCode/tree/master/1972-rotating-the-box) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Counting
 |  |
