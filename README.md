@@ -88,6 +88,7 @@
 | [0344-reverse-string](https://github.com/drashtee-parmar/LeetCode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/drashtee-parmar/LeetCode/tree/master/0415-add-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/drashtee-parmar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [1168-duplicate-zeros](https://github.com/drashtee-parmar/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/drashtee-parmar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/drashtee-parmar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/drashtee-parmar/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/drashtee-parmar/LeetCode/tree/master/0013-roman-to-integer) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/drashtee-parmar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
