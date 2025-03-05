@@ -79,6 +79,7 @@
 | [0189-rotate-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/drashtee-parmar/LeetCode/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0723-candy-crush](https://github.com/drashtee-parmar/LeetCode/tree/master/0723-candy-crush) |
 | [1019-squares-of-a-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/drashtee-parmar/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1972-rotating-the-box](https://github.com/drashtee-parmar/LeetCode/tree/master/1972-rotating-the-box) |
@@ -112,6 +113,7 @@
 | [0435-non-overlapping-intervals](https://github.com/drashtee-parmar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/drashtee-parmar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0723-candy-crush](https://github.com/drashtee-parmar/LeetCode/tree/master/0723-candy-crush) |
 | [1019-squares-of-a-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/drashtee-parmar/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1284-four-divisors](https://github.com/drashtee-parmar/LeetCode/tree/master/1284-four-divisors) |
@@ -192,6 +194,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/drashtee-parmar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/drashtee-parmar/LeetCode/tree/master/0415-add-strings) |
+| [0723-candy-crush](https://github.com/drashtee-parmar/LeetCode/tree/master/0723-candy-crush) |
 | [2288-count-operations-to-obtain-zero](https://github.com/drashtee-parmar/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Stack
 |  |
@@ -222,6 +225,7 @@
 | [0054-spiral-matrix](https://github.com/drashtee-parmar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/drashtee-parmar/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/drashtee-parmar/LeetCode/tree/master/0200-number-of-islands) |
+| [0723-candy-crush](https://github.com/drashtee-parmar/LeetCode/tree/master/0723-candy-crush) |
 | [1972-rotating-the-box](https://github.com/drashtee-parmar/LeetCode/tree/master/1972-rotating-the-box) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
