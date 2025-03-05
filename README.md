@@ -122,6 +122,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/drashtee-parmar/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1972-rotating-the-box](https://github.com/drashtee-parmar/LeetCode/tree/master/1972-rotating-the-box) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2169-simple-bank-system](https://github.com/drashtee-parmar/LeetCode/tree/master/2169-simple-bank-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/drashtee-parmar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -141,6 +142,7 @@
 | [0013-roman-to-integer](https://github.com/drashtee-parmar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1125-design-file-system](https://github.com/drashtee-parmar/LeetCode/tree/master/1125-design-file-system) |
+| [2169-simple-bank-system](https://github.com/drashtee-parmar/LeetCode/tree/master/2169-simple-bank-system) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Linked List
@@ -197,6 +199,7 @@
 | [0054-spiral-matrix](https://github.com/drashtee-parmar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/drashtee-parmar/LeetCode/tree/master/0415-add-strings) |
 | [0723-candy-crush](https://github.com/drashtee-parmar/LeetCode/tree/master/0723-candy-crush) |
+| [2169-simple-bank-system](https://github.com/drashtee-parmar/LeetCode/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/drashtee-parmar/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Stack
 |  |
@@ -290,4 +293,5 @@
 |  |
 | ------- |
 | [1125-design-file-system](https://github.com/drashtee-parmar/LeetCode/tree/master/1125-design-file-system) |
+| [2169-simple-bank-system](https://github.com/drashtee-parmar/LeetCode/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
