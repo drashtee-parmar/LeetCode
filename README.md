@@ -77,6 +77,7 @@
 | [0027-remove-element](https://github.com/drashtee-parmar/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/drashtee-parmar/LeetCode/tree/master/0344-reverse-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/drashtee-parmar/LeetCode/tree/master/1168-duplicate-zeros) |
 ## String
@@ -98,6 +99,7 @@
 | [0088-merge-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtee-parmar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/drashtee-parmar/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/drashtee-parmar/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1284-four-divisors](https://github.com/drashtee-parmar/LeetCode/tree/master/1284-four-divisors) |
@@ -110,12 +112,14 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/drashtee-parmar/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/drashtee-parmar/LeetCode/tree/master/0013-roman-to-integer) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Linked List
@@ -210,4 +214,8 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/drashtee-parmar/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Binary Search
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
