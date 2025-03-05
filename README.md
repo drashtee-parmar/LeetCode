@@ -99,6 +99,7 @@
 | [0048-rotate-image](https://github.com/drashtee-parmar/LeetCode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtee-parmar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/drashtee-parmar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/drashtee-parmar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/drashtee-parmar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtee-parmar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/drashtee-parmar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -223,4 +226,8 @@
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/drashtee-parmar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
