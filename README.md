@@ -123,6 +123,7 @@
 | [0013-roman-to-integer](https://github.com/drashtee-parmar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/drashtee-parmar/LeetCode/tree/master/0415-add-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/drashtee-parmar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2288-count-operations-to-obtain-zero](https://github.com/drashtee-parmar/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/drashtee-parmar/LeetCode/tree/master/0415-add-strings) |
+| [2288-count-operations-to-obtain-zero](https://github.com/drashtee-parmar/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Stack
 |  |
 | ------- |
