@@ -104,6 +104,7 @@
 | [0088-merge-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtee-parmar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/drashtee-parmar/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/drashtee-parmar/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/drashtee-parmar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/drashtee-parmar/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -174,6 +175,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/drashtee-parmar/LeetCode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/drashtee-parmar/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
@@ -212,6 +214,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/drashtee-parmar/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/drashtee-parmar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/drashtee-parmar/LeetCode/tree/master/0200-number-of-islands) |
 | [1972-rotating-the-box](https://github.com/drashtee-parmar/LeetCode/tree/master/1972-rotating-the-box) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -251,9 +254,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/drashtee-parmar/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/drashtee-parmar/LeetCode/tree/master/0322-coin-change) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/drashtee-parmar/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
