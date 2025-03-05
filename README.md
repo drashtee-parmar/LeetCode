@@ -88,6 +88,7 @@
 | [0013-roman-to-integer](https://github.com/drashtee-parmar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/drashtee-parmar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/drashtee-parmar/LeetCode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/drashtee-parmar/LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/drashtee-parmar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/drashtee-parmar/LeetCode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/drashtee-parmar/LeetCode/tree/master/0415-add-strings) |
@@ -101,6 +102,7 @@
 | [0027-remove-element](https://github.com/drashtee-parmar/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/drashtee-parmar/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/drashtee-parmar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/drashtee-parmar/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtee-parmar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0189-rotate-array) |
@@ -169,6 +171,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/drashtee-parmar/LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/drashtee-parmar/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
@@ -177,6 +180,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/drashtee-parmar/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/drashtee-parmar/LeetCode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/drashtee-parmar/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
@@ -216,6 +220,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/drashtee-parmar/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/drashtee-parmar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/drashtee-parmar/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/drashtee-parmar/LeetCode/tree/master/0200-number-of-islands) |
 | [1972-rotating-the-box](https://github.com/drashtee-parmar/LeetCode/tree/master/1972-rotating-the-box) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
