@@ -104,6 +104,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/drashtee-parmar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/drashtee-parmar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0001-two-sum](https://github.com/drashtee-parmar/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/drashtee-parmar/LeetCode/tree/master/0013-roman-to-integer) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -179,4 +181,12 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/drashtee-parmar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Matrix
+|  |
+| ------- |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+## Counting
+|  |
+| ------- |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 <!---LeetCode Topics End-->
