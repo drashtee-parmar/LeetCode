@@ -116,6 +116,7 @@
 | [0435-non-overlapping-intervals](https://github.com/drashtee-parmar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/drashtee-parmar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0546-remove-boxes](https://github.com/drashtee-parmar/LeetCode/tree/master/0546-remove-boxes) |
 | [0723-candy-crush](https://github.com/drashtee-parmar/LeetCode/tree/master/0723-candy-crush) |
 | [1019-squares-of-a-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/drashtee-parmar/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -182,6 +183,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtee-parmar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/drashtee-parmar/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/drashtee-parmar/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0546-remove-boxes](https://github.com/drashtee-parmar/LeetCode/tree/master/0546-remove-boxes) |
 ## Backtracking
 |  |
 | ------- |
@@ -308,4 +310,8 @@
 | ------- |
 | [1125-design-file-system](https://github.com/drashtee-parmar/LeetCode/tree/master/1125-design-file-system) |
 | [2169-simple-bank-system](https://github.com/drashtee-parmar/LeetCode/tree/master/2169-simple-bank-system) |
+## Memoization
+|  |
+| ------- |
+| [0546-remove-boxes](https://github.com/drashtee-parmar/LeetCode/tree/master/0546-remove-boxes) |
 <!---LeetCode Topics End-->
