@@ -96,6 +96,7 @@
 | [0001-two-sum](https://github.com/drashtee-parmar/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/drashtee-parmar/LeetCode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/drashtee-parmar/LeetCode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtee-parmar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/drashtee-parmar/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -133,6 +134,7 @@
 | [0002-add-two-numbers](https://github.com/drashtee-parmar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/drashtee-parmar/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/drashtee-parmar/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/drashtee-parmar/LeetCode/tree/master/0048-rotate-image) |
 | [0415-add-strings](https://github.com/drashtee-parmar/LeetCode/tree/master/0415-add-strings) |
 | [1284-four-divisors](https://github.com/drashtee-parmar/LeetCode/tree/master/1284-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/drashtee-parmar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -191,6 +193,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/drashtee-parmar/LeetCode/tree/master/0048-rotate-image) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Counting
 |  |
