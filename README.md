@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/drashtee-parmar/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/drashtee-parmar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/drashtee-parmar/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/drashtee-parmar/LeetCode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/drashtee-parmar/LeetCode/tree/master/0415-add-strings) |
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/drashtee-parmar/LeetCode/tree/master/0415-add-strings) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/drashtee-parmar/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
