@@ -89,6 +89,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/drashtee-parmar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/drashtee-parmar/LeetCode/tree/master/0020-valid-parentheses) |
+| [0068-text-justification](https://github.com/drashtee-parmar/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/drashtee-parmar/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/drashtee-parmar/LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/drashtee-parmar/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -105,6 +106,7 @@
 | [0027-remove-element](https://github.com/drashtee-parmar/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/drashtee-parmar/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/drashtee-parmar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/drashtee-parmar/LeetCode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/drashtee-parmar/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/drashtee-parmar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/drashtee-parmar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/drashtee-parmar/LeetCode/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/drashtee-parmar/LeetCode/tree/master/0415-add-strings) |
 | [0723-candy-crush](https://github.com/drashtee-parmar/LeetCode/tree/master/0723-candy-crush) |
 | [2169-simple-bank-system](https://github.com/drashtee-parmar/LeetCode/tree/master/2169-simple-bank-system) |
