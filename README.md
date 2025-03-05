@@ -108,6 +108,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/drashtee-parmar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/drashtee-parmar/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3374-count-alternating-subarrays](https://github.com/drashtee-parmar/LeetCode/tree/master/3374-count-alternating-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [1284-four-divisors](https://github.com/drashtee-parmar/LeetCode/tree/master/1284-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/drashtee-parmar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/drashtee-parmar/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3374-count-alternating-subarrays](https://github.com/drashtee-parmar/LeetCode/tree/master/3374-count-alternating-subarrays) |
 ## Recursion
 |  |
 | ------- |
