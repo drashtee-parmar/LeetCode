@@ -77,6 +77,7 @@
 | [0027-remove-element](https://github.com/drashtee-parmar/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0189-rotate-array) |
+| [0253-meeting-rooms-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0344-reverse-string](https://github.com/drashtee-parmar/LeetCode/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0723-candy-crush](https://github.com/drashtee-parmar/LeetCode/tree/master/0723-candy-crush) |
@@ -110,6 +111,7 @@
 | [0189-rotate-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/drashtee-parmar/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/drashtee-parmar/LeetCode/tree/master/0204-count-primes) |
+| [0253-meeting-rooms-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0322-coin-change](https://github.com/drashtee-parmar/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/drashtee-parmar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/drashtee-parmar/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0253-meeting-rooms-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/drashtee-parmar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/drashtee-parmar/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/drashtee-parmar/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -250,6 +253,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/drashtee-parmar/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Ordered Set
@@ -267,6 +271,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/drashtee-parmar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Breadth-First Search
 |  |
@@ -276,6 +281,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/drashtee-parmar/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/drashtee-parmar/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Union Find
 |  |
